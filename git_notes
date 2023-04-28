@@ -1,0 +1,15 @@
+
+# Creation du repo
+
+## On github
+create the repo with the name ProjectPro, using the default value (just give the name en hit create)
+## en local
+mkdir -p /home/sawibrah/BigDataStuff/BigDataProject/ProjectPro
+cd /home/sawibrah/BigDataStuff/BigDataProject/ProjectPro
+echo "# ProjectPro" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/sawibrah/ProjectPro.git
+git push -u origin master
