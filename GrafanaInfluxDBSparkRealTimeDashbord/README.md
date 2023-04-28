@@ -21,6 +21,4 @@ Grafana connects to different sources like influxDB, MySQL and populates the gra
 
 # High-level design
 
-![alt text](https://github.com/sawibrah/ProjectPro/GrafanaInfluxDBSparkRealTimeDashbord/blob/master/highleveldesign.png.jpg?raw=true)
-
-highleveldesign.png
+![alt text](https://github.com/sawibrah/ProjectPro/GrafanaInfluxDBSparkRealTimeDashbord/blob/master/highleveldesign.png?raw=true)
